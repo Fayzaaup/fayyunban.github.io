@@ -7,11 +7,14 @@
   font-family: 'Tahoma';
 }
 
+@media screen and (max-width: 600px) {
 body {
   background-color: #1b1535;
+  font-size: 16px;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+}
 }
 
 header {
