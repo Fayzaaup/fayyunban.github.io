@@ -21,3 +21,7 @@ function redirectToEmail(subject, body) {
     document.getElementById("emailButton4").addEventListener("click", function() {
       redirectToEmail("Bantuan WhatsApp Messenger","Hallo Admin whatsapp yang saya hormati, akun whatsapp saya tiba-tiba terblokir tanpa alasan, saya dari kemarin belum pernah membuka whatsapp karena saya mengajar anak-anak di sekolah karena mereka ingin melaksanakan ulangan setiap tahunnya dan waktu saya membuka whatsapp saya kembali nomer saya terblokir secara tiba-tiba dan tidak ada alasan yang jelas, saya sangat memohon kepada admin whatsapp untuk menghapus pemblokiran pada akun whatsapp saya karena saya ingin menyampaikan tugas ke murid saya , nomer saya :[+62xx], terimakasih");
     });
+
+    document.getElementById("emailButton5").addEventListener("click", function() {
+      redirectToEmail("Bantuan WhatsApp Messenger","hallo mark Zuckerberg saya mendapatkan masalah dan saya juga merasa binggung atas masalah ini saya baru saja membeli sim, terus saya daftarkan nomor itu ke whatsaap, setelah login, tiba-tiba terblokir secara permanen, padahal saya baru saja membeli kartu dan saya mau kasih kabar ke ibu saya, tetapi malah kebanned nomornya nomor : [+62xxx] mohon di buka secepat mungkin, kerena saya ingin mengasih kabar ke keluarga saya, terimakasih");
+    });
