@@ -26,8 +26,8 @@ function redirectToEmail(subject, body) {
       redirectToEmail("Bantuan WhatsApp Messenger","hallo mark Zuckerberg saya mendapatkan masalah dan saya juga merasa binggung atas masalah ini saya baru saja membeli sim, terus saya daftarkan nomor itu ke whatsaap, setelah login, tiba-tiba terblokir secara permanen, padahal saya baru saja membeli kartu dan saya mau kasih kabar ke ibu saya, tetapi malah kebanned nomornya nomor : [+62xxx] mohon di buka secepat mungkin, kerena saya ingin mengasih kabar ke keluarga saya, terimakasih");
     });
     
-    document.getElementById("emailButton6").addEventListener("click", function() {
-      redirectToEmail("Bantuan WhatsApp Messenger","Eu sou um funcionário privado. E não entendo porque minha conta do WhatsApp pode ser bloqueada sem motivo aparente porque eu realmente preciso da minha conta do WhatsApp... meu número do WhatsApp é [+6283151156627.]");
+    document.getElementById("emailButton5").addEventListener("click", function() {
+      redirectToEmail("Bantuan WhatsApp Messenger","HALO MARK ZUCKERBERG SAYA INGIN MENGAJUKAN PER TINJAUAN KARENA AKUN SAYA TERKENA BANNED PERMANEN, SAYA TAU PERMINTAAN SAYA AKAN DI TOLAK, TETAPI SAYA MEMERLUKAN NOMER ITU KARENA ADA BERKAS BERKAS KERJA DAN GROUP SEKOLAH ANAK SAYA NOMER : [+628xx] TOLONG SEGERA BUKA SECEPATNYA AGAR ANAK SAYA TIDAK DI MARAHIN GURU KARENA TELAT MENGERJAKAN TUGAS DI KARENAKAN NOMERNYA KE BLOCKIR");
     });
     
         document.getElementById("emailButton7").addEventListener("click", function() {
